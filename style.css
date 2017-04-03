@@ -1,0 +1,60 @@
+body {
+    background-color: #ff8a00;
+    padding: 2%;
+    font-family: 'Bree Serif', serif;
+    color: #993355;
+}
+
+h1 {
+    border-bottom: 3px solid #333333;
+    font-size: 50px;
+    margin: 0 0 20px 0;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p.story {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+form {
+  line-height: 25px;
+}
+
+p.instructions {
+    font-weight: bold;
+}
+
+div {
+    background-color: #ffca00;
+    border: 3px solid #333333;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    float: left;
+    padding: 10px;
+}
+
+div.data {
+    margin-right: 5%;
+    margin-left: 3%;
+    width: 25%
+}
+
+div.story {
+    width: 65%;
+}
+
+#title {
+  text-transform: capitalize;
+}
+
+.button {
+  font-family: 'Bree Serif', serif;
+  color: #993355;
+}
